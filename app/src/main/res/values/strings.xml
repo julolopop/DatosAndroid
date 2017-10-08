@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatosAndroid</string>
+    <string name="eau">Euros a Dolares</string>
+    <string name="uae">Dolares a Euros</string>
+    <string name="euros">Euros</string>
+    <string name="usa">Dolares</string>
+    <string name="TxvWeb">Indique la web que quiere ir</string>
+    <string name="url">https://www.google.com</string>
+    <string name="cafe">Cafés</string>
+</resources>
